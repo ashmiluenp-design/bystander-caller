@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: Apache-2.0
-# Copyright (c) 2025 Ikhlas
+# Copyright (c) 2025 Ashmil
 
 bind = "0.0.0.0:10000"
 workers = 4
